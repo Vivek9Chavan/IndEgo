@@ -60,6 +60,16 @@ Each Category includes:
 - Keysteps and mistakes (if any)
 - SLAM data (missing for some sequences)
 
+> [!WARNING]
+> # 🚧 MAINTENANCE IN PROGRESS 🚧
+>
+> ### ⚠️ The dataset structure is currently being reorganised. 
+> **File paths and folder names are changing.** 
+>
+> If you download the data right now, your local file structure may become inconsistent with future updates. 
+> We recommend waiting until the restructuring is complete (ETA: 12 Dec, 2025).
+>
+> **[👉 Click here to be notified when the dataset is ready](https://forms.gle/j8krD3At2hEWjJPg8)**
 ---
 
 ## 🤝 Related Works
