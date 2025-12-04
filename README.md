@@ -74,7 +74,7 @@ Each Category includes:
 
 ## ⚙️ Data Processing
 
-To ensure high-quality derived annotations, we utilized the following state-of-the-art tools and pipelines:
+We utilise the following state-of-the-art tools and pipelines:
 
 - **Eye-Gaze:** Generated using the open-weight model from **Meta Reality Labs**.  
   🔗 [Project Aria Eye Tracking](https://github.com/facebookresearch/projectaria_eyetracking)
