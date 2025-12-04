@@ -72,6 +72,21 @@ Each Category includes:
 > **[👉 Click here to be notified when the dataset is ready](https://forms.gle/j8krD3At2hEWjJPg8)**
 ---
 
+## ⚙️ Data Processing
+
+To ensure high-quality derived annotations, we utilized the following state-of-the-art tools and pipelines:
+
+- **Eye-Gaze:** Generated using the open-weight model from **Meta Reality Labs**.  
+  🔗 [Project Aria Eye Tracking](https://github.com/facebookresearch/projectaria_eyetracking)
+
+- **SLAM & Motion:** 6DoF trajectories and semi-dense point clouds were computed using **Machine Perception Services (MPS)**.  
+  🔗 [Project Aria MPS Documentation](https://facebookresearch.github.io/projectaria_tools/docs/ARK/mps)
+
+- **Transcripts & Narration:** Time-stamped audio transcriptions were generated using **WhisperX** for accurate alignment.  
+  🔗 [WhisperX Repository](https://github.com/m-bain/whisperX)
+
+---
+
 ## 🤝 Related Works
 
 This repository builds upon and integrates components from several open-source projects and pretrained models. We gratefully acknowledge the contributions of the following repositories and their authors:
