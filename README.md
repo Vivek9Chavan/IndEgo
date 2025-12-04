@@ -61,9 +61,9 @@ Each Category includes:
 - SLAM data (missing for some sequences)
 
 > [!WARNING]
-> # 🚧 MAINTENANCE IN PROGRESS 🚧
+> # 🚧 UPDATE IN PROGRESS 🚧
 >
-> ### ⚠️ The dataset structure is currently being reorganised. 
+> ### ⚠️ Based on the feedback from other community members, the dataset structure is being reorganised. 
 > **File paths and folder names are changing.** 
 >
 > If you download the data right now, your local file structure may become inconsistent with future updates. 
