@@ -67,7 +67,7 @@ Each Category includes:
 > **File paths and folder names are changing.** 
 >
 > If you download the data right now, your local file structure may become inconsistent with future updates. 
-> We recommend waiting until the restructuring is complete ((ETA: 14 Jan, 2026 - Final camera-ready deadline)).
+> We recommend waiting until the restructuring is complete (ETA: 14 March, 2026).
 >
 > **[👉 Click here to be notified when the dataset is ready](https://forms.gle/j8krD3At2hEWjJPg8)**
 ---
